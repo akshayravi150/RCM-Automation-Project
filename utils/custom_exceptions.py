@@ -1,0 +1,2 @@
+class ChargeProcessingError(Exception):
+    pass
