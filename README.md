@@ -114,11 +114,28 @@ python main.py
 This project is designed to simulate a real-world healthcare admin workflow where staff handle charge entry, validation, and status updates. The automation layer is structured to process bulk records and reduce repetitive manual actions.
 
 ## Portfolio Highlights
-- Built a full-stack Python automation demo with UI + backend logic
-- Applied Selenium for browser automation testing and workflow simulation
-- Worked with data processing using Excel and pandas
-- Integrated logging, error handling, and modular project architecture
-- Designed the repository to look professional and recruiter-friendly
+- Built a Python-based automation solution for healthcare billing workflows using Flask and Selenium
+- Designed a user-facing charge-entry interface connected to backend processing logic
+- Processed Excel-based billing data with Pandas and OpenPyXL for automation workflows
+- Implemented structured logging and error handling for operational transparency
+- Created a modular project architecture that is portfolio-ready and easy to explain in interviews
+
+## Project Summary for Interview
+This project demonstrates my ability to design and build a practical automation solution for Revenue Cycle Management (RCM) workflows. I created a Flask-based interface for login and charge entry, combined it with Selenium automation for browser-based processing, and used Excel-driven data workflows to simulate real-world healthcare billing operations. The project highlights my understanding of automation, data handling, and process improvement in a healthcare setting. It also reflects my ability to structure a solution with modular components, logging, error handling, and a recruiter-friendly repository layout that clearly communicates technical capability and business relevance.
+
+## Screenshot Section
+
+### Dashboard
+![RCM Dashboard](https://via.placeholder.com/1200x700.png?text=RCM+Automation+Dashboard)
+
+### Login Page
+![RCM Login Page](https://via.placeholder.com/1200x700.png?text=RCM+Login+Page)
+
+### Charge Entry Form
+![RCM Charge Entry](https://via.placeholder.com/1200x700.png?text=RCM+Charge+Entry)
+
+## Short LinkedIn / GitHub Project Description
+Developed an RCM automation project using Python, Flask, Selenium, and Excel-based data processing to streamline healthcare charge-entry workflows. The solution includes a login interface, charge entry form, modular automation logic, logging, and error handling to simulate real-world revenue cycle operations. This project demonstrates my skills in automation, process optimization, and building recruiter-friendly technical solutions.
 
 ## Notes
 This project is intended for portfolio and learning purposes. It can be extended with real authentication, API integrations, production-grade validations, and more advanced RCM workflows.
