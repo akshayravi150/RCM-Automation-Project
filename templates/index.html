@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RCM Dashboard</title>
+</head>
+<body>
+    <h1>RCM Automation Dashboard</h1>
+
+    <h3>1️⃣ Upload Excel</h3>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <label>Upload Excel (patients or charges):</label>
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+
+    <h3>2️⃣ Run Automation</h3>
+    <a href="/run_automation">
+        <button type="button">Run Automation</button>
+    </a>
+
+    <h3>3️⃣ View Tables</h3>
+    <a href="/tables">View Patients & Charges Tables</a>
+</body>
+</html>
